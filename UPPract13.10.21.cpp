@@ -46,20 +46,25 @@ int main()
     cout << multiply << ", " << lastDgt << " - " << alpha << endl;*/
 
     //Задача 4
-    int numa;
-    int numb;
-    cin >> numa >> numb;
+    //int numa;
+    //int numb;
+    //cin >> numa >> numb;
 
-    /*numa = numa + numb;
-    numb = numa - numb;
-    numa = numa + numb;*/
+    ///*numa = numa + numb;
+    //numb = numa - numb;
+    //numa = numa + numb;*/
 
-    //Задача 4.1
-    int numc;
-    numc = numa;
-    numa = numb;
-    numb = numc;
-    cout << numa << numb;
+    ////Задача 4.1
+    //int numc;
+    //numc = numa;
+    //numa = numb;
+    //numb = numc;
+    //cout << numa << numb;
+
+    //Задача 5
+    int num1, num2;
+    cin >> num1 >> num2;
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
