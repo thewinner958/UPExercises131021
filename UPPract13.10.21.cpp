@@ -66,7 +66,7 @@ int main()
     int num1, num2;
     cin >> num1 >> num2;
     bool divident = num1 >= num2;
-    cout << divident;
+    cout << boolalpha << divident << endl;
 
     //Задача 6 
     double side1, side2, side3;
